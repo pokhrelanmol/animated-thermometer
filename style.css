@@ -1,0 +1,14 @@
+body {
+  background-color: yellowgreen;
+}
+.main-container {
+  margin-top: 10rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 3rem;
+  color: antiquewhite;
+  letter-spacing: 2px;
+}
+.fa {
+  margin-left: 10rem;
+  font-size: 10rem;
+}
